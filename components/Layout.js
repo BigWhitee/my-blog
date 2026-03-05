@@ -1,8 +1,8 @@
 /**
  * Layout 组件
- * 提供页面布局结构 useState, use
+ * 提供页面布局结构
  */
-import {Effect } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 
 /**
